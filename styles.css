@@ -12,7 +12,7 @@
 /* 🌍 Estrutura geral */
 body {
   color: var(--cor-texto);
-  background: var(--cor-fundo-body);
+  background: url('img/fundo-de-mes-de-historia-preto-plano-desenhado-a-mao_52683-73654.png');
   margin: 0;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
