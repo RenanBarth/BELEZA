@@ -13,9 +13,11 @@
 body {
   color: var(--cor-texto);
   background: url('img/fundo-de-mes-de-historia-preto-plano-desenhado-a-mao_52683-73654.png') no-repeat center center;
+  background-size: cover;
   margin: 0;
   font-family: "Libre Baskerville", serif;
-  font-weight: 400;
+  font-weight: bold;
+  margin-bottom: 100px;
 }
 
 /* 📌 Cabeçalho */
