@@ -136,15 +136,3 @@ footer a:hover {
 font-size: 32px;
 color:rgb(0, 38, 255);
 }
-
-.galeria {
-              display: flex;
-                          justify-content: space-around; /* Distribui as imagens igualmente */
-                                      gap: 10px; /* Espaçamento entre as imagens */
-                                              }
-
-                                                      /* Estilo das imagens */
-                                                              .galeria img {
-                                                                          width: 30%; /* Tamanho das imagens, você pode ajustar */
-                                                                                      height: auto;
- }
